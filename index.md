@@ -13,6 +13,7 @@ Author: Alfredo Sánchez Alberca (asalber@gmail.com)
 - [Yakuake](https://www.linux-apps.com/content/show.php?content=29153) Drop-down terminal emulator for KDE.
 - [Strechly](https://hovancik.net/stretchly/) A break time reminder app.
 - [BleachBit](https://www.bleachbit.org/) Disk cleaner.
+- [KDEConnect](https://community.kde.org/KDEConnect) KDE app to communicate pc with phone.
 
 ## Management
 
@@ -56,6 +57,7 @@ Author: Alfredo Sánchez Alberca (asalber@gmail.com)
 
 ## Multimedia
 
+- [VLC](https://www.videolan.org/vlc/index.html) Video player.
 - [Vokoscreen](http://linuxecke.volkoh.de/vokoscreen/vokoscreen.html) Screencast recorder.
 - [Kdenlive](https://kdenlive.org/en/) Video editor.
 - [Videostream for Chromecast](https://getvideostream.com/) Send videos to chromecast.
